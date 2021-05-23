@@ -44,3 +44,4 @@ resulting value. And check its type. Any surprises?
 message asking for a second number. Then print the sum of the two numbers. 
 Check the resulting values. Any surprises? For 4 and 5 the program should 
 display 9. If it doesn’t investigate and fix the error.
+
