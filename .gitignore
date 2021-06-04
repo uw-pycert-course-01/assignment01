@@ -56,4 +56,6 @@ MANIFEST
 .coveragerc
 venv/
 *.sublime*
-
+*.sublime-workspace
+py310_assignment01.sublime-project
+.autoenv.zsh
