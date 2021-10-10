@@ -1,7 +1,7 @@
 # Assignment 1: Starter exercises
 
 ## Objectives
-1. The objectives of this assignment is to allow you to familiarize yourself 
+1. The objective of this assignment is to allow you to familiarize yourself 
 with the basics of Python.
 ## Instructions
 1. Complete each of the the tasks below and submit them for grading.
