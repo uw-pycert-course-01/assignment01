@@ -18,13 +18,17 @@ third variable. Check that the third variable has the correct value.
 third variable. Check that the third variable has the correct value.
 1. Write code to add an int variable and a str variable. What happens? Why? 
 Record your answer in a comment.
-1. For next steps you are going to need to use Python functions. Well, that 
+
+
+For next steps you are going to need to use Python functions. Well, that 
 should say more Python functions because you have been using the print 
 function already.
-1. Functions accept input and turn it into a result. For example, print takes 
+
+Functions accept input and turn it into a result. For example, print takes 
 a message to display on the screen, but other than doing that, doesn’t return 
 any results that we need for now.
-1. Other useful functions are str, which converts a number to a str, round, 
+
+Other useful functions are str, which converts a number to a str, round, 
 which takes a number and count of decimals places, and returns the number 
 rounded (so round(6.4352, 3) returns 6.46. Also type takes any variable name 
 and returns its type.
