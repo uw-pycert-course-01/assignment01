@@ -6,19 +6,44 @@ with the basics of Python.
 ## Instructions
 1. Complete each of the the tasks below and submit them for grading.
 ### Basics
-1. Assign a string, integer and float value to variables called respectively 
-mystring, myinteger and myfloat. 
-1. Write code to add two int variables, storing the result in a third 
-variable. Check that the third variable has the correct value.
-1. Write code to add two float variables, storing the result in a third 
-variable. Check that the third variable has the correct value.
-1. Write code to add two str variables (yes, really), storing the result in a 
-third variable. Check that the third variable has the correct value.
-1. Write code to add an int and a float variable, storing the result in a 
-third variable. Check that the third variable has the correct value.
-1. Write code to add an int variable and a str variable. What happens? Why? 
-Record your answer in a comment.
-
+1. Create 3 variables and assign them a value.
+    1. Create a variable called my_string and assign it a string value
+    1. Create a variable called my_integer and assign it an integer value
+    1. Create a variable called my_float and assign it a float value
+1. Create two new integer variables with any values.
+    1. Write code to add those variables, storing the result in a third variable. 
+    1. In a comment, write what you expect the value of the third variable to be.
+    1. Print out the value of the third variable to verify that it has the correct value.
+    1. In a comment, write what you expect the type of the third variable to be.
+    1. Print out the type of the third variable
+    1. In a comment, write what the output type was and an explanation of why that is.
+1. Create two new float variables with any values.
+    1. Write code to add those variables, storing the result in a third variable. 
+    1. In a comment, write what you expect the value of the third variable to be.
+    1. Print out the value of the third variable to verify that it has the correct value.
+    1. In a comment, write what you expect the type of the third variable to be.
+    1. Print out the type of the third variable
+    1. In a comment, write what the output type was and an explanation of why that is.
+1. Create two new string variables with any values.
+    1. Write code to add those variables, storing the result in a third variable.
+    1. In a comment, write what you expect the value of the third variable to be.
+    1. Print out the value of the third variable to verify that it has the correct value.
+    1. In a comment, write what you expect the type of the third variable to be.
+    1. Print out the type of the third variable
+    1. In a comment, write what the output type was and an explanation of why that is.
+1. Add any integer variable and any float variable from the previous steps, storing the result in a third variable. 
+    1. In a comment, write what you expect the value of the third variable to be.
+    1. Print out the value of the third variable to verify that it has the correct value.
+    1. In a comment, write what you expect the type of the third variable to be.
+    1. Print out the type of the third variable
+    1. In a comment, write what the output type was and an explanation of why that is.
+1. Add any integer variable and any string variable from the previous steps, storing the result in a third variable. 
+    1. In a comment, write what you expect the value of the third variable to be.
+    1. Print out the value of the third variable to verify that it has the correct value.
+    1. In a comment, write what the output value was and an explanation of why that is.
+    1. In a comment, write what you expect the type of the third variable to be.
+    1. Print out the type of the third variable
+    1. In a comment, write what the output type was and an explanation of why that is.
 
 For next steps you are going to need to use Python functions. Well, that 
 should say more Python functions because you have been using the print 
