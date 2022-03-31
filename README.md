@@ -30,6 +30,7 @@ with the basics of Python.
     1. In a comment, write what you expect the value of the third variable to be.
     1. Print out the value of the third variable to verify that it has the correct value.
     1. In a comment, write what the output value was and an explanation of why that is.
+    1. Comment out the line of code and go on to the next section.
 
 For next steps you are going to use Python functions beyond `print`.
 
