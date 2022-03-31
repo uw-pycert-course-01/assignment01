@@ -5,7 +5,7 @@
 with the basics of Python.
 ## Instructions
 1. Complete each of the the tasks below and submit them for grading.
-## Basics
+### Basics
 1. Create 3 variables and assign them a value.
     1. Create a variable called `my_string` and assign it a string value
     1. Create a variable called `my_integer` and assign it an integer value
